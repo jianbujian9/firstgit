@@ -1,5 +1,5 @@
 beijing
 shanghai
-beautiful guangzhou
+beautiful guangzhou guangdong
 shenyang 
 zhengzhou
