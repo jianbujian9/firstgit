@@ -1,6 +1,6 @@
 beijing
 shanghai
-beautiful guangzhou guangdong
+guangzhou guangdong
 shenyang 
 zhengzhou
 hello
